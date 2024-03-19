@@ -76,3 +76,22 @@
     position: relative;
     top: 3px;
 }
+
+.Watch-items {
+    display: flex;
+    margin-right: 50px;
+    justify-content: space-between;
+}
+
+.Watches {
+    margin-top: 30px;
+    margin-left: 30px;
+    border-radius: 50%;
+    background-color: #ffff;
+    border-color: #ffff;
+    /* width: 325px; */
+}
+
+.Watches img {
+    width: 200px;
+}
